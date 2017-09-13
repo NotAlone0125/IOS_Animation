@@ -1,0 +1,13 @@
+//
+//  YYHAnimationView.h
+//  YYH_WaveAnimation
+//
+//  Created by 杨昱航 on 2017/6/12.
+//  Copyright © 2017年 杨昱航. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface YYHAnimationView : UIView
+
+@end
